@@ -5,8 +5,4 @@
     <Version>1.0.0-alpha</Version>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\MacroSystem\MacroSystem\MacroSystem.csproj" />
-  </ItemGroup>
-
 </Project>
